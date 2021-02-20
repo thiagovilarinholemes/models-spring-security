@@ -1,0 +1,2 @@
+INSERT INTO User(id, user_name, password, active, roles) VALUES(null, 'carina', '123', true, 'ROLE_USER');
+INSERT INTO User(id, user_name, password, active, roles) VALUES(null, 'thiago', '123', true, 'ROLE_ADMIN');
